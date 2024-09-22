@@ -1,7 +1,8 @@
 # Image Transmission via UDP Sockets Using Sliding Window Protocol
+
 This project involves building a reliable image transmission system using the UDP (User Datagram Protocol). The system is designed to handle the sending of images between a sender and receiver over a network, using a Sliding Window Protocol to ensure that the packets (data chunks) are transmitted efficiently and reliably, despite the inherent unreliability of UDP. The project includes two main components: the Sender and the Receiver, which communicate over a socket connection.
 
-## **2-Project Overview:** 
+## **2-Project Overview:**
 This project involves building a reliable image transmission system using the UDP (User Datagram Protocol). The system is designed to handle the sending of images between a sender and receiver over a network, using a Sliding Window Protocol to ensure that the packets (data chunks) are transmitted efficiently and reliably, despite the inherent unreliability of UDP. The project includes two main components: the Sender and the Receiver, which communicate over a socket connection.
 
 ## **3-Techniques Used:**
